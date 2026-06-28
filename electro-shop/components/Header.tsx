@@ -53,15 +53,15 @@ export default function Header() {
     washing: ["HOTPOINT", "Neos", "LG", "Bosch", "Beko", "SAMSUNG", "Hisense", "TOSHIBA", "YOSHIRO", "VESTEL", "WHIRLPOOL", "Midea", "Hitachi", "HOFFMANN"],
     ac: ["Samsung", "LG", "Midea", "Hisense"],
     fridge: ["Samsung", "LG", "Beko", "Hisense"],
-    combi: ["Bosch", "Beko"],
+    combi: ["Bosch", "Midea", "Beko"],
     dishwasher: ["Bosch", "Beko", "LG"],
-    dryer: ["Samsung", "LG", "Beko"],
+    dryer: ["Hitachi", "LG", "Bosch", "Beko"],
     freezer: ["Hisense", "Beko"],
     vacuum: ["Bosch", "Samsung", "LG"],
     coffee: ["Bosch", "Midea"],
     stove: ["Beko", "Bosch"],
     microwave: ["Samsung", "LG", "Midea"],
-    oven: ["Bosch", "Beko"],
+    oven: ["Silver", "Beko"],
   };
 
   const categories = [
