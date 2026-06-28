@@ -50,7 +50,7 @@ export default function Header() {
 
   const categoryBrands: Record<string, string[]> = {
     tv: ["Samsung", "LG", "Hisense", "Toshiba"],
-    washing: ["HOTPOINT", "Neos", "LG", "Bosch", "Beko", "Hisense", "Midea", "Hitachi", "HOFFMANN"],
+    washing: ["HOTPOINT", "Neos", "LG", "Bosch", "Beko", "SAMSUNG", "Hisense", "TOSHIBA", "YOSHIRO", "VESTEL", "WHIRLPOOL", "Midea", "Hitachi", "HOFFMANN"],
     ac: ["Samsung", "LG", "Midea", "Hisense"],
     fridge: ["Samsung", "LG", "Beko", "Hisense"],
     combi: ["Bosch", "Beko"],
